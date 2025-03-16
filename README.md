@@ -8,7 +8,7 @@ DELL OptiPlex 3090 Micro (MFF) OpenCore 1.0.4 Hackintosh
 - Bios Version: 2.4.0
 - CPU: Intel i5-10500t
 - RAM: Samsung 2x16GB DDR4 3200
-- SSD: West Digital SN750 500G
+- SSD: Samsung SSD PM991a TLC M.2 256GB
 - iGPU: Intel UHD Graphic 630
 - Audio: Realtek ALC256
 - Ethernet: Intel I219-LM
