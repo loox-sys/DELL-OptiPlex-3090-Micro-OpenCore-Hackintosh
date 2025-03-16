@@ -24,7 +24,7 @@ DELL OptiPlex 3090 Micro (MFF) OpenCore 1.0.4 Hackintosh
 
 ✅ macOS Monterey 12.x / 2021
 
-❌ macOS Ventura 13.x / 2022
+✅ macOS Ventura 13.x / 2022
 
 ❌ macOS Sonoma 14.x / 2023
 
