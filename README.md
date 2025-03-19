@@ -28,4 +28,6 @@ DELL OptiPlex 3090 Micro (MFF) OpenCore 1.0.4 Hackintosh
 
 ❌ macOS Sonoma 14.x / 2023
 
-❌ macOS Sequoia 15.x / 2025
+✅ macOS Sequoia 15.x / 2025
+
+#### macOS Sequoia 15.3.2 has booted successfully. Data upload (EFI bootloader) will follow soon.
