@@ -5,19 +5,19 @@ DELL OptiPlex 3090 Micro (MFF) OpenCore 1.0.4 Hackintosh
 
 ### Hardware
 - Motherboard: DELL Q470
-- Bios Version: 2.4.0
+- Bios Version: 2.23.0 / latest version
 - CPU: Intel i5-10500t
-- RAM: Samsung 2x16GB DDR4 3200
+- RAM: Crucial 2x16GB DDR4 3200
 - SSD: Samsung SSD PM991a TLC M.2 256GB
 - iGPU: Intel UHD Graphic 630
 - Audio: Realtek ALC256
 - Ethernet: Intel I219-LM
 - Wireless / BT: Intel AX201
-- PSU: DELL 65W 
+- PSU: DELL 65W
 
 
 ### OpenCore
-[OpenCore 1.0.4](https://github.com/acidanthera/opencorepkg/releases)
+Link: [OpenCore 1.0.4](https://github.com/acidanthera/opencorepkg/releases)
 
 ### OS Version Tested
 ✅ macOS Big Sur 11.x / 2020
@@ -30,4 +30,10 @@ DELL OptiPlex 3090 Micro (MFF) OpenCore 1.0.4 Hackintosh
 
 ✅ macOS Sequoia 15.x / 2025
 
-#### macOS Sequoia 15.3.2 has booted successfully. Data upload (EFI bootloader) will follow soon.
+#### macOS Sequoia 15.3.2 has booted successfully. 
+There is no working AirportItlwm.kext for macOS Sequoia, so only the itlwm.kext in conjunction with HeliPort helps.
+
+Link: [itlwm.kext](https://github.com/openintelwireless/itlwm/releases) & [HeliPort](https://github.com/OpenIntelWireless/HeliPort)
+
+### Important
+Generate the SMBIOS with OpenCore Configurator
